@@ -90,146 +90,146 @@ PMI provided this [video](https://youtu.be/KaFmtY18ykw) update on _What’s New 
 | [[13 PROJECT STAKEHOLDER MANAGEMENT]] | [[13_1 Identify Stakeholders]] | [[13_2 Plan Stakeholder Management]] | [[13_3 Manage Stakeholder Engagement]] | [[13_4 Control Stakeholder Engagement]] | - |
 
 ## Project Management Processes Listing
-[[4 PROJECT INTEGRATION MANAGEMENT]]
-[[4_1 Develop Project Charter]]
-[[4_2 Develop Project Management Plan]]
-[[4_3 Direct and Manage Project Work]]
-[[4_4 Monitor and Control Project Work]]
-[[4_5 Perform Integrated Change Control]]
-[[4_6 Close Project or Phase]]
-
-[[5 PROJECT SCOPE MANAGEMENT]]
-[[5_1 Plan Scope Management]]
-[[5_2 Collect Requirements]]
-[[5_3 Define Scope]]
-[[5_4 Create WBS]]
-[[5_5 Validate Scope]]
-[[5_6 Control Scope]]
-
-[[6 PROJECT TIME MANAGEMENT]]
-[[6_1 Plan Schedule Management]]
-[[6_2 Define Activities]]
-[[6_3 Sequence Activities]]
-[[6_4 Estimate Activity Resources]]
-[[6_5 Estimate Activity Durations]]
-[[6_6 Develop Schedules]]
-[[6_7 Control Schedule]]
-
-[[7 PROJECT COST MANAGEMENT]]
-[[7_1 Plan Cost Management]]
-[[7_2 Estimate Costs]]
-[[7_3 Determined Budget]]
-[[7_4 Control Costs]]
-
-[[8 PROJECT QUALITY MANAGEMENT]]
-[[8_1 Plan Quality Management]]
-[[8_2 Perform Quality Assurance]]
-[[8_3 Control Quality]]
-
-[[9 PROJECT HUMAN RESOURCE MANAGEMENT]]
-[[9_1 Plan Human Resource Management]]
-[[9_2 Acquire Project Team]]
-[[9_3 Develop Project Team]]
-[[9_4 Manage Project Team]]
-
-[[10 PROJECT COMMUNICATIONS MANAGEMENT]]
-[[10_1 Plan Communications Management]]
-[[10_2 Manage Communications]]
-[[10_3 Control Communications]]
-
-[[11 PROJECT RISK MANAGEMENT]]
-[[11_1 Plan Risk Management]]
-[[11_2 Identify Risks]]
-[[11_3 Perform Qualitative Risk Analysis]]
-[[11_4 Perform Quantitative Risk Analysis]]
-[[11_5 Plan Risk Responses]]
-[[11_6 Control Risks]]
-
-[[12 PROJECT PROCUREMENT MANAGEMENT]]
-[[12_1 Plan Procurement Management]]
-[[12_2 Conduct Procurements]]
-[[12_3 Control Procurements]]
-[[12_4 Close Procurements]]
-
-[[13 PROJECT STAKEHOLDER MANAGEMENT]]
-[[13_1 Identify Stakeholders]]
-[[13_2 Plan Stakeholder Management]]
-[[13_3 Manage Stakeholder Engagement]]
-[[13_4 Control Stakeholder Engagement]]
-
-## Unique List of Outputs
-
-Accepted deliverables
-Activity attributes
-Activity cost estimates
-Activity duration estimates
-Activity list
-Activity resource requirements
-Agreements
-Approved change requests
-Basis of estimates
-Business case
-Change log
-Change requests
-Closed procurements
-Communications management plan
-Cost baseline
-Cost forecast
-Cost management plan
-Deliverables
-Enterprise environmental factors
-Enterprise environmental factors updates
-Final product, service, or result transition
-Human resource management plan
-Issue log
-Make-or-buy decisions
-Milestone list
-Organisational process assets
-Organisational process assets updates
-Outputs from other processes
-Process improvement plan
-Procurement documents
-Procurement management plan
-Procurement statement of work
-Project calendars
-Project communications
-Project documents updates
-Project funding requirements
-Project management plan
-Project management plan updates
-Project schedule
-Project schedule network diagrams
-Project scope statement
-Project staff assignments
-Project statement of work
-Quality checklists
-Quality control measurements
-Quality management plan
-Quality metrics
-Requirements documentation
-Requirements management plan
-Requirements traceability matrix
-Resource breakdown structure
-Resource calendars
-Risk management plan
-Risk register
-Schedule baseline
-Schedule data
-Schedule forecast
-Schedule management plan
-Scope baseline
-Scope management plan
-Selected sellers
-Source selection criteria
-Stakeholder management plan
-Stakeholder register
-Team performance assessments
-Validated changes
-Verified deliverables
-Work performance data
-Work performance information
-Work performance reports
-
+[[4 PROJECT INTEGRATION MANAGEMENT]]  
+[[4_1 Develop Project Charter]]  
+[[4_2 Develop Project Management Plan]]  
+[[4_3 Direct and Manage Project Work]]  
+[[4_4 Monitor and Control Project Work]]  
+[[4_5 Perform Integrated Change Control]]  
+[[4_6 Close Project or Phase]]  
+  
+[[5 PROJECT SCOPE MANAGEMENT]]  
+[[5_1 Plan Scope Management]]  
+[[5_2 Collect Requirements]]  
+[[5_3 Define Scope]]  
+[[5_4 Create WBS]]  
+[[5_5 Validate Scope]]  
+[[5_6 Control Scope]]  
+  
+[[6 PROJECT TIME MANAGEMENT]]  
+[[6_1 Plan Schedule Management]]  
+[[6_2 Define Activities]]  
+[[6_3 Sequence Activities]]  
+[[6_4 Estimate Activity Resources]]  
+[[6_5 Estimate Activity Durations]]  
+[[6_6 Develop Schedules]]  
+[[6_7 Control Schedule]]  
+  
+[[7 PROJECT COST MANAGEMENT]]  
+[[7_1 Plan Cost Management]]  
+[[7_2 Estimate Costs]]  
+[[7_3 Determined Budget]]  
+[[7_4 Control Costs]]  
+  
+[[8 PROJECT QUALITY MANAGEMENT]]  
+[[8_1 Plan Quality Management]]  
+[[8_2 Perform Quality Assurance]]  
+[[8_3 Control Quality]]  
+  
+[[9 PROJECT HUMAN RESOURCE MANAGEMENT]]  
+[[9_1 Plan Human Resource Management]]  
+[[9_2 Acquire Project Team]]  
+[[9_3 Develop Project Team]]  
+[[9_4 Manage Project Team]]  
+  
+[[10 PROJECT COMMUNICATIONS MANAGEMENT]]  
+[[10_1 Plan Communications Management]]  
+[[10_2 Manage Communications]]  
+[[10_3 Control Communications]]  
+  
+[[11 PROJECT RISK MANAGEMENT]]  
+[[11_1 Plan Risk Management]]  
+[[11_2 Identify Risks]]  
+[[11_3 Perform Qualitative Risk Analysis]]  
+[[11_4 Perform Quantitative Risk Analysis]]  
+[[11_5 Plan Risk Responses]]  
+[[11_6 Control Risks]]  
+  
+[[12 PROJECT PROCUREMENT MANAGEMENT]]  
+[[12_1 Plan Procurement Management]]  
+[[12_2 Conduct Procurements]]  
+[[12_3 Control Procurements]]  
+[[12_4 Close Procurements]]  
+  
+[[13 PROJECT STAKEHOLDER MANAGEMENT]]  
+[[13_1 Identify Stakeholders]]  
+[[13_2 Plan Stakeholder Management]]  
+[[13_3 Manage Stakeholder Engagement]]  
+[[13_4 Control Stakeholder Engagement]]  
+  
+## Unique List of Outputs  
+  
+Accepted deliverables  
+Activity attributes  
+Activity cost estimates  
+Activity duration estimates  
+Activity list  
+Activity resource requirements  
+Agreements  
+Approved change requests  
+Basis of estimates  
+Business case  
+Change log  
+Change requests  
+Closed procurements  
+Communications management plan  
+Cost baseline  
+Cost forecast  
+Cost management plan  
+Deliverables  
+Enterprise environmental factors  
+Enterprise environmental factors updates  
+Final product, service, or result transition  
+Human resource management plan  
+Issue log  
+Make-or-buy decisions  
+Milestone list  
+Organisational process assets  
+Organisational process assets updates  
+Outputs from other processes  
+Process improvement plan  
+Procurement documents  
+Procurement management plan  
+Procurement statement of work  
+Project calendars  
+Project communications  
+Project documents updates  
+Project funding requirements  
+Project management plan  
+Project management plan updates  
+Project schedule  
+Project schedule network diagrams  
+Project scope statement  
+Project staff assignments  
+Project statement of work  
+Quality checklists  
+Quality control measurements  
+Quality management plan  
+Quality metrics  
+Requirements documentation  
+Requirements management plan  
+Requirements traceability matrix  
+Resource breakdown structure  
+Resource calendars  
+Risk management plan  
+Risk register  
+Schedule baseline  
+Schedule data  
+Schedule forecast  
+Schedule management plan  
+Scope baseline  
+Scope management plan  
+Selected sellers  
+Source selection criteria  
+Stakeholder management plan  
+Stakeholder register  
+Team performance assessments  
+Validated changes  
+Verified deliverables  
+Work performance data  
+Work performance information  
+Work performance reports  
+  
 
 ## Glossary of Outputs
 
