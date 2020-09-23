@@ -10,6 +10,8 @@ This is basically a template or cheatsheet of the processes, inputs and outputs 
 
 These files are plain text files so one can move them about easily and opened with any text editor on any operating system. This is important to me as I have had issues with other proprietary based systems which lock up my content and is a bugger to get out. 
 
+![Processes Interconnections](https://github.com/bradleysawler/blog/blob/master/images/project_mgmt_notes_nodes_1000.png)
+
 ## Process Page Setup
 
 I set up each page with the following structure. H1 stands for heading 1 and so forth. The Data Flow Diagrams in the Guide run from left to right: Input Processes > Process > Output > Output Processes. Using a text file format, I had to rotate it 90° to run top-down. 
