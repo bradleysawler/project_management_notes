@@ -1,0 +1,6 @@
+[[4_1 Develop Project Charter]]
+[[4_2 Develop Project Management Plan]]
+[[4_3 Direct and Manage Project Work]]
+[[4_4 Monitor and Control Project Work]]
+[[4_5 Perform Integrated Change Control]]
+[[4_6 Close Project or Phase]]

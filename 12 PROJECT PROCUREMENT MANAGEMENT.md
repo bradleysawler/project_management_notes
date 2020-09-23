@@ -1,0 +1,5 @@
+[[12 PROJECT PROCUREMENT MANAGEMENT]]
+[[12_1 Plan Procurement Management]]
+[[12_2 Conduct Procurements]]
+[[12_3 Control Procurements]]
+[[12_4 Close Procurements]]

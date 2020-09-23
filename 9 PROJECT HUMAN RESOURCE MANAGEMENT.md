@@ -1,0 +1,5 @@
+[[9 PROJECT HUMAN RESOURCE MANAGEMENT]]
+[[9_1 Plan Human Resource Management]]
+[[9_2 Acquire Project Team]]
+[[9_3 Develop Project Team]]
+[[9_4 Manage Project Team]]

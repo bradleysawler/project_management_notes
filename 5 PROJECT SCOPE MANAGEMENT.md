@@ -1,0 +1,7 @@
+[[5 PROJECT SCOPE MANAGEMENT]]
+[[5_1 Plan Scope Management]]
+[[5_2 Collect Requirements]]
+[[5_3 Define Scope]]
+[[5_4 Create WBS]]
+[[5_5 Validate Scope]]
+[[5_6 Control Scope]]
